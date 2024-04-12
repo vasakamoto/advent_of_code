@@ -21,7 +21,7 @@ int main()
 
     // Open file 
     FILE * aoc_day1_part1;
-    aoc_day1_part1 = fopen("day1_part1.txt." ,"r");
+    aoc_day1_part1 = fopen("day1.txt." ,"r");
     
     // Read file
     while(ch != EOF)
